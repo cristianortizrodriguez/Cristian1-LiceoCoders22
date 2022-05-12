@@ -1,0 +1,7 @@
+Commit: Capturar un proyecto, donde se crea una nueva version de ese proyecto en el repositorio actual.
+
+Fetch: Comando que hace que tu repositorio Git local se actualice con la última información que hay en el repositorio remoto.
+
+Pull: Comando que comprueba si hay cambios en el repositorio remoto y, en caso de que los haya, se trae esos archivos a tu repositorio local y actualiza tu espacio de trabajo.
+
+Push: Comando te permite subir los commits desde tu rama.
