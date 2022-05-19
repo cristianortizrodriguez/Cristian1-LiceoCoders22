@@ -1,0 +1,32 @@
+div {background: #ccc; height: 300px;}
+body{
+	background: #333;
+}
+
+main{
+	background:#8f8;
+}
+
+main *{
+	border: 1px dotted #000;
+}
+
+header{
+	height: 200px;
+}
+
+content{
+	height: 600px;
+}
+
+header article{
+	width: 400px;
+	height: 400px;
+	background: #666;
+	display: inline-block;
+	margin: 30px;
+}
+
+footer{
+	height: 400px;
+}
