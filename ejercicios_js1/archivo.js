@@ -23,3 +23,8 @@ const numb=10
 console.log(numb) 
 numb= numb + 1
 console.log(numb)
+
+let b = true
+ 
+var lista= [1,2,3,4]
+// tipos de variables: numeros, string, booleano, arrays(o lista),..
